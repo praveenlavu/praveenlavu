@@ -1,6 +1,6 @@
 ## Praveen Lavu
 
-Salesforce architect. I work across Sales, Service, Experience, Financial
+Salesforce architecture and development. I work across Sales, Service, Experience, Financial
 Services and Health Cloud — Apex, governor limits, sharing models, packaging,
 and the platform behaviour that only surprises you in production.
 
