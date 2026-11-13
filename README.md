@@ -1,44 +1,57 @@
-## Praveen Lavu
+# Praveen Lavu
 
-Salesforce architecture and development. I work across Sales, Service, Experience, Financial
-Services and Health Cloud — Apex, governor limits, sharing models, packaging,
-and the platform behaviour that only surprises you in production.
+**Salesforce by title. Enterprise by instinct. Agentic by obsession.**
 
-Healthcare EDI is where I go deepest, and outside the platform I build agent
-systems and write about what breaks.
+Hands-on Salesforce architect working on AI-assisted development. I design systems
+and solutions, take data visibility and privacy seriously, and build the small tools
+that let a team move without waiting on me.
 
-### What I work on
+[![praveenlavu.com](https://img.shields.io/badge/site-praveenlavu.com-b8923a)](https://praveenlavu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2)](https://www.linkedin.com/in/praveen-salesforce-architect/)
 
-**Salesforce architecture** — Sales, Service, Experience, Financial Services and
-Health Cloud. Org strategy, sharing and security models, Apex and governor
-limits, packaging and release, and integration design across clouds.
+## What I work on
 
-**Healthcare EDI** — X12 5010, HIPAA claims processing, 837/835/999 transaction
-flows, and PHI minimisation as a structural property rather than a redaction
-step.
+- 🏛️ **Solution and systems architecture.** Multi-org consolidation, integration design,
+  release pipelines, and the platform behaviour that only surprises you in production.
+- 🔐 **Data visibility and privacy architecture.** Sharing models that survive an audit,
+  and PHI minimisation as a structural property rather than a redaction step.
+- 🏥 **Healthcare EDI.** X12 5010, HIPAA claims flows, and acknowledgements that mean
+  something.
+- 🤖 **Agentic development.** Spec-driven, AI-assisted delivery with a person approving
+  every write that matters.
 
-**Agentic AI architecture** — orchestration, memory tiers, evaluation, and the
-failure modes that show up once agents run unattended rather than in a demo.
+## Open tools
 
-**AI engineering practice** — agent tooling, publishing pipelines, licensing and
-prior-art discipline. The working practice around building with AI, not the
-pitch for it.
+Small utilities for teams, public and MIT licensed:
 
-### Writing
+| Project | What it does |
+|---|---|
+| [**spec-kit-ado**](https://github.com/praveenlavu/spec-kit-ado) | Your AI agent does the Azure DevOps grunt work. You press yes. A community extension to GitHub's Spec Kit, listed in its community catalog. |
+| [**spec-kit-ghp**](https://github.com/praveenlavu/spec-kit-ghp) | The same approval-first lifecycle for GitHub Issues and Projects. Pre-release. |
+| [**spec-kit-jira**](https://github.com/praveenlavu/spec-kit-jira) | The same approval-first lifecycle for Jira Cloud. Pre-release. |
 
-I write up the things that went wrong and why, in more detail than is
-comfortable — a verification gate that reported correct numbers as false, a
-canonical URL that returned 200 instead of redirecting, a similarity check that
-got looser as its input grew. The failures are more useful than the wins, and
-they are usually more specific.
+These are community projects, not official GitHub, Microsoft or Atlassian products.
 
-→ **[praveenlavu.com](https://praveenlavu.com)** — long-form, and everything else.
+## Credentials
 
-### Elsewhere
+Twenty certifications, including all seven Salesforce architect-track credentials.
+Newest: Copado AI, Copado Fundamentals I and II, and GitHub Certified: Agentic AI
+Developer. Full list on [LinkedIn](https://www.linkedin.com/in/praveen-salesforce-architect/details/certifications/).
+
+## Writing
+
+I write up the things that went wrong and why, in more detail than is comfortable: a
+verification gate that reported correct numbers as false, a canonical URL that returned
+200 instead of redirecting, a similarity check that got looser as its input grew. The
+failures are more useful than the wins.
+
+→ **[praveenlavu.com](https://praveenlavu.com)**: long-form, and everything else.
+
+## Elsewhere
 
 - [dev.to/praveenlavu](https://dev.to/praveenlavu)
 - [@praveenLavu@mastodon.social](https://mastodon.social/@praveenLavu)
 - [bsky.app/profile/praveenlavu.bsky.social](https://bsky.app/profile/praveenlavu.bsky.social)
 
-<sub>The public repositories here are older work. Current projects are private
-until they are worth reading.</sub>
+<sub>Most of my current work stays private until it is worth reading. The tools above are
+the part that is ready to be used.</sub>
